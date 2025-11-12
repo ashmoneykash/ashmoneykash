@@ -38,6 +38,7 @@
 
 ---
 
-<div style="text-align: center; margin-bottom: 20px;">
-    <img alt="Coding" width="400" src="https://media1.tenor.com/m/Iyjb-QZc_R4AAAAd/rainbow-cat-rainbow.gif">
+<div align="center">
+    <img alt="Rainbow Cat" width="400" src="https://media1.tenor.com/m/Iyjb-QZc_R4AAAAd/rainbow-cat-rainbow.gif">
+    <img alt="Coding Cat" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGljdTd4Mm82MHc2cHNwNDZnOXdrdm5zd3BzeGZyY25oeTlxNDZuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif">
 </div>
