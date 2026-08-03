@@ -54,9 +54,9 @@
     <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ashmoneykash&repo=gaming-peripherals-store-django&theme=tokyonight&v=2" /></a>
 <a href="https://github.com/ashmoneykash/portfolio">
     <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ashmoneykash&repo=portfolio&theme=tokyonight&v=2" /></a>
-<a href="https://github.com/ashmoneykash/bookaseat">
-    <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ashmoneykash&repo=bookaseat&theme=tokyonight&v=2" /></a>
-</p>
+<a href="https://github.com/ashmoneykash/retail-analytics-platform">
+    <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ashmoneykash&repo=retail-analytics-platform&theme=tokyonight&v=2" />
+</a>
 </div>
 
 <br>
