@@ -49,14 +49,41 @@
 <!-- Best Repositories -->
 <div align="center">
   <h3>⭐️ Interesting Repositories</h3>
-  <p align="center">
-<a href="https://github.com/ashmoneykash/gaming-peripherals-store-django">
-    <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ashmoneykash&repo=gaming-peripherals-store-django&theme=tokyonight&v=2" /></a>
-<a href="https://github.com/ashmoneykash/portfolio">
-    <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ashmoneykash&repo=portfolio&theme=tokyonight&v=2" /></a>
-<a href="https://github.com/ashmoneykash/retail-analytics-platform">
-    <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ashmoneykash&repo=retail-analytics-platform&theme=tokyonight&v=2" />
-</a>
+
+<table width="900">
+  <colgroup>
+    <col width="300">
+    <col width="300">
+    <col width="300">
+  </colgroup>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ashmoneykash/gaming-peripherals-store-django"><b>Gaming Peripherals Store</b></a>
+      <br /><br />
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="24" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="24" />
+      <br /><br />
+      <sub>E-commerce platform for gaming peripherals with product catalog, cart, and checkout flow</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ashmoneykash/portfolio"><b>Portfolio</b></a>
+      <br /><br />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="24" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="24" />
+      <br /><br />
+      <sub>My personal developer portfolio showcasing projects and skills</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ashmoneykash/retail-analytics-platform"><b>Retail Analytics</b></a>
+      <br /><br />
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="24" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="24" />
+      <br /><br />
+      <sub>Analytics platform delivering insights on retail sales data</sub>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 <br>
